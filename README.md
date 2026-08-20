@@ -31,7 +31,7 @@ This repository hosts the SolidWorks files for deep-sea pressure-rated cable spl
     This step is only needed once, unless you're changing cable sizes.
 - FDM or SLA print Foot.SLDPRT (only needs to be done once).
 - Open PreForm and upload TopMold.SLDPRT and BottomMold.SLDPRT.
-- Orient both parts with their flat sections facing up. This prevents supports from generating on that face and keeps it as flat as possible for sealing.
+- Orient both parts with their flat sections facing up. This prevents supports from generating on that face and keeps it as flat as possible for sealing the faces together.
 - Add supports and start the print.
 
 **3. Post-Printing**
@@ -40,7 +40,7 @@ This repository hosts the SolidWorks files for deep-sea pressure-rated cable spl
 - Cure according to resin type:
     - Clear V4.1: 15 min at 60 °C
     - Clear V5: 5 min, no heat
-    - For other resins, check Formlabs's Form Cure time/temperature guide.
+    - For other resins, check Formlabs's Form Cure V1 time/temperature guide.
 - Remove all supports.
 
 **4. Lapping**
