@@ -1,4 +1,4 @@
-# DeePot-Molds
+# MUSSEL-Molds
 This repository hosts the SolidWorks files for deep-sea pressure-rated cable splicing.
 
 **Required Items**
@@ -25,7 +25,7 @@ This repository hosts the SolidWorks files for deep-sea pressure-rated cable spl
 - In the left-hand tree, right-click Equations and select Manage Equations.
 - Under the Value / Equation column, enter the measured diameters for the Left and Right cable.
 - Open BottomMold.SLDPRT and repeat the past two steps.
-- Open DeePotAssem.SLDASM and confirm that both cable holes appear circular.
+- Open MUSSELAssem.SLDASM and confirm that both cable holes appear circular.
 
 **2. Printing**
     This step is only needed once, unless you're changing cable sizes.
@@ -61,14 +61,14 @@ This repository hosts the SolidWorks files for deep-sea pressure-rated cable spl
 - Insert the six hex nuts into the BottomMold and thread the screws through the TopMold in an X pattern to distribute clamping pressure evenly.
 
 **7. Scotchcasting**
-    A 7.5 oz bag comfortably fills two molds — consider assembling two DeePot molds at once if you have the parts on hand.
+    A 7.5 oz bag comfortably fills two molds — consider assembling two MUSSEL molds at once if you have the parts on hand.
 - Follow the mixing instructions on the 3M Scotchcast 2131 bag, with one change: mix for 90 seconds instead of the recommended 30, making sure to work resin out of every corner of the bag.
     - Do not undermix. An incomplete cure will compromise the seal, and the affected section of cable will need to be cut out, resoldered, and repotted from scratch.
 - Snip a small corner off the bag and slowly pour the resin into the TopMold's fill hole until it reaches near the top.
 
 **8. Pressure Potting**
     Compresses air bubbles trapped in the Scotchcast for a stronger, more reliable seal.
-- Place the assembled DeePot mold into the pressure pot with the TopMold's fill hole facing up.
+- Place the assembled MUSSEL mold into the pressure pot with the TopMold's fill hole facing up.
 - Close and secure the pressure pot lid.
 - Bring the chamber to 45 PSI and hold for 8+ hours. (Starting this at the end of the day so it runs overnight works well.)
 
