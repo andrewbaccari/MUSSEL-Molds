@@ -1,4 +1,6 @@
 # MUSSEL-Molds
+Also known as Molded Underwater Splice Sealed & Enclapsulated Linkage
+
 This repository hosts the SolidWorks files for deep-sea pressure-rated cable splicing.
 
 **Required Items**
